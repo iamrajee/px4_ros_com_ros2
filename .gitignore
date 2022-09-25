@@ -2,4 +2,4 @@ EXTRA/*
 build/*
 install/*
 log/*
-.gitignore
+gitpush.sh
