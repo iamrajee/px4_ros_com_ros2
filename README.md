@@ -1,4 +1,4 @@
-# Documentation: https://docs.google.com/document/d/1ZPXg8pRfYiuOkcLDv2s443YgoQIDe3rJ55hZbEZgDIU/edit?usp=sharing
+# Documentation: [click here](https://docs.google.com/document/d/1ZPXg8pRfYiuOkcLDv2s443YgoQIDe3rJ55hZbEZgDIU/edit?usp=sharing)
 
 ## A. Launch Simulation and QGC
 ```
