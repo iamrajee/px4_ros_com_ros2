@@ -2,3 +2,4 @@ EXTRA/*
 build/*
 install/*
 log/*
+.gitignore
