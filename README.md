@@ -193,7 +193,7 @@ chmod 777 *.sh
     make
     source source.sh
     ```
-    > It will create new package . Run it as `./createpkg.sh newpkg_name`
+    > It will create new package . Run it as `./createpkg.sh newPkgName`
 
 * ## tftree.sh
     ```
