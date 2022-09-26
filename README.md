@@ -174,12 +174,22 @@ chmod 777 *.sh
     > It will build the workspace . Run it as `make`
 
 * ## createpkg.sh
+    ### CPP
     ```
     #!/bin/bash
     cd src/
     ros2 pkg create $1 --build-type ament_cmake --node-name cpp_node
     cd ../
-    #ls src/
+    make
+    source source.sh
+    ```
+
+    ### Python
+    ```
+    #!/bin/bash
+    cd src/
+    ros2 pkg create $1 --build-type ament_python --node-name py_node
+    cd ../
     make
     source source.sh
     ```
