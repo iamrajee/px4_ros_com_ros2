@@ -51,7 +51,7 @@ This ROS2 Foxy workspace is created on Ubuntu 20.04.  Here I have worked on some
 
 ### A. Launch Simulation and QGC
 ```
-~/PX4-Autopilot
+cd ~/PX4-Autopilot
 make px4_sitl_rtps gazebo
 ```
 
@@ -143,6 +143,14 @@ from_external: true}"
 ---
 <br/><br/>
 # Helper Scripts
+
+Run chmod in your workspace, i.e  
+```
+cd ~/px4_ros_com_ros2
+chmod 777 *.sh
+cd ~/PX4-Autopilot
+chmod 777 *.sh
+```
 
 * ## source.sh
     ```
