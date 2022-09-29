@@ -231,7 +231,7 @@ chmod 777 *.sh
 | <a href="https://github.com/MuskaanMaheshwari" target="_blank">**Muskaan Maheshwari**</a> | <a href="https://www.linkedin.com/in/sachin-rustagi-882b55145/" target="_blank">**Sachin Rustagi**</a> | <a href="https://www.linkedin.com/in/s-m-rafi-911442130/" target="_blank">**S M Rafi**</a> |
 | :---: |:---:| :---:|
 --->
-| <a href="https://github.com/akshata-1" target="_blank">**Akshata**</a> | <a href="https://www.linkedin.com/in/sachin-rustagi-882b55145/" target="_blank">**Sachin Rustagi**</a> | <a href="https://github.com/amins1" target="_blank">**Swami Prasad**</a> |
+| <a href="https://github.com/akshata-1" target="_blank">**Akshata**</a> | <a href="https://github.com/rafism1997" target="_blank">**SM Rafi**</a> | <a href="https://github.com/amins1" target="_blank">**Swami Prasad**</a> |
 | :---: |:---:| :---:|
 | ![](https://avatars0.githubusercontent.com/u/47593305?s=200&v=3) | ![](https://avatars0.githubusercontent.com/u/917816?s=200&v=3) | ![](https://avatars0.githubusercontent.com/u/48486228?s=200&v=3)  |
 
