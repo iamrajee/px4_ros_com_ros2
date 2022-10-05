@@ -6,7 +6,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 --->
 
-This ROS2 Foxy workspace is created on Ubuntu 20.04.  Here I have worked on some px4-ros2 related projects. 
+This ROS2 Foxy workspace is created on Ubuntu 20.04.  Here we have worked on some px4-ros2 related projects. 
 
 # Documentation: [click here](https://docs.google.com/document/d/1ZPXg8pRfYiuOkcLDv2s443YgoQIDe3rJ55hZbEZgDIU/edit?usp=sharing)
 
@@ -29,7 +29,7 @@ This ROS2 Foxy workspace is created on Ubuntu 20.04.  Here I have worked on some
 
 ## Installation
 
-> All the `code` required to get started
+> All the `code` required to get started:
 - #### Prerequisite
     - You should have ROS2 Foxy on your ubuntu 20.04.
     - All ROS dependency is satisfied.
@@ -55,7 +55,7 @@ cd ~/PX4-Autopilot
 make px4_sitl_rtps gazebo
 ```
 
-### B. Open QGC, Important!
+### B. Open QGC(Important!)
 ```
 ~/.PX4-Autopilot/QGroundControl.AppImage
 ```
