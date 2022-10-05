@@ -29,7 +29,7 @@ This ROS2 Foxy workspace is created on Ubuntu 20.04.  Here we have worked on som
 
 ## Installation
 
-> All the `code` required to get started
+> All the `code` required to get started:
 - #### Prerequisite
     - You should have ROS2 Foxy on your ubuntu 20.04.
     - All ROS dependency is satisfied.
