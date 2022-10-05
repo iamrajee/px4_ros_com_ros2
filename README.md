@@ -6,7 +6,7 @@
 [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
 --->
 
-This ROS2 Foxy workspace is created on Ubuntu 20.04.  Here I have worked on some px4-ros2 related projects. 
+This ROS2 Foxy workspace is created on Ubuntu 20.04.  Here we have worked on some px4-ros2 related projects. 
 
 # Documentation: [click here](https://docs.google.com/document/d/1ZPXg8pRfYiuOkcLDv2s443YgoQIDe3rJ55hZbEZgDIU/edit?usp=sharing)
 
