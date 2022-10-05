@@ -55,7 +55,7 @@ cd ~/PX4-Autopilot
 make px4_sitl_rtps gazebo
 ```
 
-### B. Open QGC, Important!
+### B. Open QGC(Important!)
 ```
 ~/.PX4-Autopilot/QGroundControl.AppImage
 ```
